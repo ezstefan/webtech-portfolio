@@ -18,7 +18,7 @@ I’m **Amandeep Khajan**, a passionate **Full Stack Developer** with experience
 ## Experience
 
 ### Lead Developer | ScribeFlow | 2024 - Present
-Proficient in **Data Structures**, **Generative AI**, and **Deep Learning**. I built a platform with a focus on education in the tech space.
+Utilizing Open AI Whisper models and Xenova Transformers for seamless translation and transcribing.
 
 ### ML/AI Engineer | CloudFeather Games | May - July'24
 Worked on predictive analytics models for player retention and churn rates for online games.
